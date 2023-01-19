@@ -14,11 +14,11 @@
 
 * `pip install rich`
 
-* `rm -rf DEMON_1x1`
+* `rm -rf DEMON-1x1`
 
-* `git clone https://github.com/Demon-Cyber-404/DEMON_1x1.git`
+* `git clone https://github.com/Demon-Cyber-404/DEMON-1x1.git`
 
-* `cd DEMON_1x1`
+* `cd DEMON-1x1`
 
 #### > Run : `python DEMON-1x1.py`
 
