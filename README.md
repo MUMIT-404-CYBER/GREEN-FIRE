@@ -20,7 +20,7 @@
 
 * `cd DEMON_1x1`
 
-#### > Run : `python DEMON_1x1.py`
+#### > Run : `python DEMON-1x1.py`
 
 <h3>Visitors :</h3><br>
 
