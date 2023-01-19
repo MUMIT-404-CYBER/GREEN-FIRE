@@ -14,7 +14,7 @@
 
 * `pip install rich`
 
-* `rm -rf Old-Clone`
+* `rm -rf DEMON_1x1`
 
 * `git clone https://github.com/Demon-Cyber-404/DEMON_1x1.git`
 
