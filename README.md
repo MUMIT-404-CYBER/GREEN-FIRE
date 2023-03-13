@@ -1,8 +1,8 @@
-## Installation :
+## COMMAND :
 
-* `pkg update`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Random+FB+id+Cloning+Tool+Enjoy+Guys%F0%9F%A4%9F)](https://git.io/typing-svg)
 
-* `pkg upgrade`
+* `pkg update && pkg upgrade`
 
 * `pkg install python`
 
@@ -10,22 +10,28 @@
 
 * `pip install requests`
 
+* `pip install mechanize`
+
 * `pip install futures`
 
 * `pip install rich`
 
-* `rm -rf DEMON-1x1`
+* `pip install bs4`
 
-* `git clone https://github.com/Demon-Cyber-404/DEMON-1x1.git`
+* `rm -rf GREEN-FIRE`
 
-* `cd DEMON-1x1`
+* `git clone https://github.com/MUMIT-404-CYBER/GREEN-FIRE.git`
 
-#### > Run : `python DEMON-1x1.py`
+* `cd GREEN-FIRE`
 
-<h3>Visitors :</h3><br>
+* `python fire.py`
 
-<img src="https://profile-counter.glitch.me/Demon-Cyber-404/count.svg" alt="Visitors">
 
-<p align="left">
 
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+___This Tool is Free Enjoy Dear User.___</br>
+
+## SCREENSHOT :
+<br>
+<p align="center">
+<img src="__scr__/fire.jpg"/>
+</p>
