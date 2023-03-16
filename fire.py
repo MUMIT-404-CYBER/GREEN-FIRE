@@ -1,6 +1,8 @@
 import os, sys, time
-print("")
 os.system('clear')
+print("")
+print("")
+print("")
 print("   Update Checking...")
 time.sleep(1.0)
 print("   Not Updated !!")
