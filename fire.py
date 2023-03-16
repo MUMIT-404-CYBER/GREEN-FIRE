@@ -1,4 +1,7 @@
 import os, sys
-print(" Update Checking...")
-os.system("git pull")
-import firex
+print("")
+print("")
+print("   Update Checking...")
+print("   Not Updated !!")
+print("   Update Coming Soon...")
+print("   Love U All Dear User.")
