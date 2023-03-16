@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, time
 print("")
 os.system('clear')
 print("   Update Checking...")
