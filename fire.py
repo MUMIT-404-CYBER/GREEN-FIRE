@@ -1,4 +1,6 @@
 os, sys
-print("Update Comimg Soon")
-print("Wait For Update")
+os.system(" git pull")
+print(" Update Chaking...")
+import firex
+
 
