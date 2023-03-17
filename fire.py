@@ -1,14 +1,4 @@
-import os, sys, time
-os.system('clear')
-print("")
-print("")
-print("")
-print("   Update Checking...")
-time.sleep(2.0)
-print("   Not Updated !!")
-time.sleep(1.5)
-print("   Update Coming Soon...")
-time.sleep(1.5)
-print("   Wait For Update")
-time.sleep(1.5)
-print("   Love You All Dear User😊")
+import os, sys
+print(" Update Checking...")
+os.system("git pull")
+import firex
