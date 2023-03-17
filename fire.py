@@ -1,6 +1,5 @@
 import os, sys
-os.system(" git pull")
 print(" Update Chaking...")
+os.system(" git pull")
 import firex
-
 
